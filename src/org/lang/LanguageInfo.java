@@ -7,9 +7,7 @@ public class LanguageInfo extends StateDetails {
   private void englishLanguage() {
 	System.out.println("English language students : 1000");
 }
-  private void hindiLanguage() {
-	System.out.println("Hindi language students : 100");
-}
+ 
   public static void main(String[] args) {
 	  LanguageInfo l = new LanguageInfo();
 	  l.tamilLanguage();
