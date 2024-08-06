@@ -7,4 +7,7 @@ public class StateDetails {
 	public void northIndia() {
 	System.out.println("North India has Bihar");
 }
+	private void eastIndia() {
+		System.out.println();
+	}
 }
